@@ -1,0 +1,19 @@
+/* Navbar style */
+.navbar a {
+  text-decoration: none;
+  margin: 0 5px;
+  padding: 5px 20px;
+  color: black;
+  border: 1px solid lightgrey;
+}
+
+.navbar a:hover {
+  box-shadow: 1px 1px #f8b475, 2px 2px #dfb974, 3px 3px #eac753;
+  -webkit-transform: translateX(-3px);
+  transform: translateX(-3px);
+}
+/* Logo Style */
+.logo {
+  font-size: 20px;
+  font-weight: 600;
+}

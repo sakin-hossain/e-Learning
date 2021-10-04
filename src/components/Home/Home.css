@@ -1,0 +1,28 @@
+/* Hero Section style */
+.hero__section {
+  background-image: url(./img/Header-BG.png);
+  background-position: center;
+  background-size: cover;
+  height: 80vh;
+  text-align: center;
+}
+
+.hero__section h1 {
+  padding-top: 15%;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.hero__section p {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/* Button Style */
+.btn__style {
+  background-color: darkorange;
+  color: aliceblue;
+  font-weight: 600;
+  padding: 7px 24px;
+}

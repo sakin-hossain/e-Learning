@@ -1,0 +1,57 @@
+/* Footer Container */
+.footer__container {
+  background-color: #2c3238;
+  text-align: center;
+  color: aliceblue;
+  padding: 20px;
+}
+.footer__container a {
+  margin: 5px;
+}
+.footer__container h4 {
+  font-weight: bold;
+  padding: 10px 0;
+  font-size: 30px;
+}
+.footer__container span {
+  color: darkorange;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
