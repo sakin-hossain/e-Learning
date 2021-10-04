@@ -28,6 +28,7 @@ const Service = (props) => {
                             fullSymbol="fas fa-star"
                             readonly></Rating>
                         <h6 className="mt-3"><i className="fas fa-users"></i> Enrolled: {enrolled}</h6>
+                        <button className="btn btn__style">Enroll Now</button>
                     </Card.Footer>
                 </Card>
             </CardGroup>
