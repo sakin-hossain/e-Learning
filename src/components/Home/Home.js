@@ -12,7 +12,7 @@ const Home = () => {
         .then(data => setCourses(data));
     }, []);
     const handleSeeMore = () => {
-        history.push('/services');
+        history.push('/courses');
     }
     return (
         <div>
