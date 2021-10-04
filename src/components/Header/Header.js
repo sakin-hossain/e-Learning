@@ -20,6 +20,8 @@ const Header = () => {
                             <NavLink to="/courses">Courses</NavLink>
                             <NavLink to="/instructor">Become An Instructor</NavLink>
                             <NavLink to="/about">About Us</NavLink>
+                            <NavLink to="/">Sign Up</NavLink>
+                            <NavLink className="btn btn__style" to="/">Login</NavLink>
                         </Nav>
                     </Navbar.Collapse>
                 </div>
